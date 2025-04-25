@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="your-image-url.png" alt="Logo" width="200"/>
+  <img src="images/treebg3.png" alt="Logo" width="200"/>
 </p>
+
+<h1 align="center">Binary Tree Visualizer</h1>
