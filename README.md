@@ -9,5 +9,5 @@
 ![Downloads](https://img.shields.io/npm/dw/react)
 ![GitHub Stars](https://img.shields.io/github/stars/sinhasandeep2006/Binary-tree?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/sinhasandeep2006?style=social)
-![Repo](https://github.com/sinhasandeep2006/Binary-tree.git)
+![Repo](https://img.shields.io/github.com/sinhasandeep2006/Binary-tree.git)
 
